@@ -1,0 +1,36 @@
+/*1ERE PARTIE*/
+
+header 
+{
+    height: 100vh;
+    background-image: url("../picture/landscape.jpg");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;     
+    text-align: center;  
+}
+
+span
+{
+    color: #d63c37;
+}
+
+#section2{
+    background-color: #d63c37;
+    padding-top: 20vw;
+}
+
+#fontwhite{
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+h3{
+    color: #ffffff;
+}
+
+
+/*2EME PARTIE */
+
+
+/*3EME PARTIE */
