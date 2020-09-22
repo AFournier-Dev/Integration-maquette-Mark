@@ -32,5 +32,29 @@ h3{
 
 /*2EME PARTIE */
 
+.star::before
+{
+    content:"☆";
+    left: -50px;
+    position: absolute;
+    color: #D63C37;
+}
+
+.moon::before
+{
+    content:"☆";
+    left: -50px;
+    position: absolute;
+    color: #D63C37;
+}
+
+.heart::before
+{
+    content:"☆";
+    left: -50px;
+    position: absolute;
+    color: #D63C37;
+}
+
 
 /*3EME PARTIE */
