@@ -1,4 +1,24 @@
+/*POLICE */
+
+@font-face {
+    font-family: 'Aileron';
+    src: url('Aileron.otf') format('otf')
+}
+@import url('https://fonts.googleapis.com/css2?family=Caladea:wght@700&display=swap');
+
+
+
+
+
+
 /*1ERE PARTIE*/
+
+h1, h2, h3{
+    font-family: 'Caladea', serif;
+}
+p{
+    font-family: 'Aileron', 'Times New Roman', 'Verdana';
+}
 
 header 
 {
@@ -9,6 +29,7 @@ header
     background-size: cover;     
     text-align: center;  
 }
+
 
 span
 {
@@ -32,7 +53,7 @@ h3{
 
 /*2EME PARTIE */
 
-.star::before
+#star::before
 {
     content:"☆";
     left: -50px;
@@ -40,21 +61,38 @@ h3{
     color: #D63C37;
 }
 
-.moon::before
+#moon::before
 {
-    content:"☆";
+    content:"\263E";
     left: -50px;
     position: absolute;
     color: #D63C37;
 }
 
-.heart::before
+#heart::before
 {
-    content:"☆";
+    content:"\2606";
     left: -50px;
     position: absolute;
     color: #D63C37;
 }
 
 
-/*3EME PARTIE */
+/*MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU
+
+MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU
+
+MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU 
+
+MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU
+
+MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU
+
+MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU 
+
+MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU
+
+MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU
+
+MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU MENU */
+
